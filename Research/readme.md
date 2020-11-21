@@ -6,14 +6,14 @@ Please run https://github.com/Ron-Zehavi/anomalies-detection/blob/main/Research/
 ### Json Files
 In https://github.com/Ron-Zehavi/anomalies-detection/blob/main/Research/create_sector_and_authority_jsons.ipynb you need to run the file, in order to get update for these 2 files:
 1. water_authority.json - file containing a dictionary of all points ID by water authorities
-<<<<<<< HEAD
+
 2. sectors.json - file containing a dictionary of all points ID by sectors
 
-=======
+
 https://github.com/Ron-Zehavi/anomalies-detection/blob/main/water_authority.json
 2. sectors.json - file containing a dictionary of all points ID by sectors
 https://github.com/Ron-Zehavi/anomalies-detection/blob/main/sectors.json
->>>>>>> origin/main
+
 
 ### Sectorial data
 You can aggregates the data of a sector in authority level, and saves it as pickle file. 
