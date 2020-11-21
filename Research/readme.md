@@ -1,10 +1,5 @@
 # Research README
 
-<<<<<<< HEAD
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ron-Zehavi/anomalies-detection/HEAD)
-
-=======
->>>>>>> origin/main
 ### Pre-Processing 
 Please run https://github.com/Ron-Zehavi/anomalies-detection/blob/main/Research/EDA.ipynb to see the EDA.
 
